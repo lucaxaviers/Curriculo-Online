@@ -7,10 +7,7 @@ Este projeto é um site de currículo online simples, profissional e responsivo,
 ## 📷 Imagens do Projeto
 
 ![Foto 1](Curriculo%20Base/foto1.png)  
-*Foto 1 do currículo*
-
 ![Foto 2](Curriculo%20Base/foto2.png)  
-*Foto 2 do currículo*
 
 ---
 
