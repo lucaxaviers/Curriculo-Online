@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Portfólio de Lucas Xavier - Estudante de Engenharia de Software e fundador da ReaisWeb." />
+    <title>Lucas Xavier | Portfólio</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Font Awesome para ícones -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body>
+    <header class="header">
+        <div class="container header-container">
+            <img src="./img/lucas.jpg" alt="Lucas Xavier" class="profile-img" />
+            <div class="header-info">
+                <h1>Lucas Xavier</h1>
+                <h2>Estudante de Engenharia de Software</h2>
+            </div>
+        </div>
+    </header>
+
+    <main class="container main-content">
+        <section>
+            <h3>Formação</h3>
+            <ul>
+                <li>Técnico em Informática — Colégio Bento Quirino</li>
+                <li>Engenharia de Software — PUC-Campinas (em andamento)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Experiência</h3>
+            <ul>
+                <li>Fundador da ReaisWeb — Desenvolvimento de soluções web</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Habilidades</h3>
+            <ul>
+                <li>HTML, CSS, JavaScript</li>
+                <li>GitHub</li>
+                <li>Design Responsivo</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Contato</h3>
+            <p>
+                <i class="fas fa-envelope"></i> <a href="mailto:lucas.xavier.pln@gmail.com">lucas.xavier.pln@gmail.com</a><br>
+                <i class="fab fa-instagram"></i> <a href="https://www.instagram.com/lucaxaviers" target="_blank">@lucaxaviers</a>
+            </p>
+        </section>
+
+        <!-- Formulário de contato -->
+        <section>
+            <h3>Envie uma mensagem</h3>
+            <form action="#" method="post" class="contact-form" novalidate>
+                <label for="name">Nome</label>
+                <input type="text" id="name" name="name" placeholder="Seu nome completo" required />
+
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" placeholder="seu.email@exemplo.com" required />
+
+                <label for="message">Mensagem</label>
+                <textarea id="message" name="message" rows="5" placeholder="Escreva sua mensagem aqui..." required></textarea>
+
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Lucas Xavier. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
