@@ -8,15 +8,6 @@ Este projeto é um site de currículo online simples, profissional e responsivo,
 
 - HTML5  
 - CSS  
-- 📚 [Font Awesome](https://fontawesome.com/) (para ícones)
-
----
-
-## 📁 Estrutura do projeto
-
-- `index.html` — arquivo principal com o conteúdo do currículo.  
-- `style.css` — estilos CSS para o layout e design responsivo.  
-- `img/` — pasta para imagens (exemplo: foto de perfil).
 
 ---
 
@@ -29,9 +20,3 @@ Este projeto é um site de currículo online simples, profissional e responsivo,
 - 🎯 Uso de ícones para melhorar a experiência visual.
 
 ---
-
-## 📌 Como usar
-
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
