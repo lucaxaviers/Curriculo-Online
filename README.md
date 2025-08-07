@@ -2,9 +2,9 @@
 Este projeto é um site de currículo online simples, profissional e responsivo, criado para apresentar informações pessoais, formação acadêmica, experiências, habilidades, projetos e contato de forma clara e organizada.
 
 🛠️ Tecnologias utilizadas
-HTML5
 
-🎨 CSS3
+HTML5
+CSS
 
 📚 Font Awesome (para ícones)
 
